@@ -1,12 +1,23 @@
        Theo diem mon Toan
-Sinh vien thu 1:      9 6 7.5
-Sinh vien thu 3:      6 2 6
-Sinh vien thu 2:      3 8 8.5
+                      Toan   Ly    Anh
+Sinh vien thu 1:      9.0    6.0   7.5
+Sinh vien thu 2:      8.0    8.5   6.0
+Sinh vien thu 3:      6.0    7.0   4.5
+
        Theo diem mon Ly
-Sinh vien thu 2:      3 8 8.5
-Sinh vien thu 1:      9 6 7.5
-Sinh vien thu 3:      6 2 6
+                      Toan   Ly    Anh
+Sinh vien thu 2:      8.0    8.5   6.0
+Sinh vien thu 3:      6.0    7.0   4.5
+Sinh vien thu 1:      9.0    6.0   7.5
+
        Theo diem mon Anh
-Sinh vien thu 2:      3 8 8.5
-Sinh vien thu 1:      9 6 7.5
-Sinh vien thu 3:      6 2 6
+                      Toan   Ly    Anh
+Sinh vien thu 1:      9.0    6.0   7.5
+Sinh vien thu 2:      8.0    8.5   6.0
+Sinh vien thu 3:      6.0    7.0   4.5
+
+       Theo diem trung binh
+                      Dtb   Toan   Ly    Anh
+Sinh vien thu 1:      7.5   9.0    6.0   7.5
+Sinh vien thu 2:      7.5   8.0    8.5   6.0
+Sinh vien thu 3:      5.8   6.0    7.0   4.5
